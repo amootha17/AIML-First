@@ -1,0 +1,6 @@
+echo "# testassignment-pgpaiml-ml-chennai-amootha17" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/GreatLearningAIML1/testassignment-pgpaiml-ml-chennai-amootha17.git
+git push -u origin master
